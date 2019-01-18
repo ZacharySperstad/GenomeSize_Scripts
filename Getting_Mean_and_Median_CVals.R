@@ -1,3 +1,11 @@
+#########################################################################################################
+#                         Extracting C-Values and Chromosome Number from the                            #
+#                         *.xls files from the Animal Genome Size Database                              #
+#########################################################################################################
+# This is a way to take the values from the *.xls files from the Animal Genome Size Database (Gregory 2019)
+# and make new spreadsheets with just the C-Values and chromsome numbers. The output will be the median and
+# values for all species.
+
 require(tidyr)
 
 
