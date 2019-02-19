@@ -1,0 +1,63 @@
+,X,Order,Family,Species,CVal_Mean,ChromNumber_Mean,CVal_Median,ChromNumber_Median
+438,438,Cyprinodontiformes,Aplocheilidae,Aphyosemion coeruleum,1.2,NA,1.2,NA
+439,439,Cyprinodontiformes,Aplocheilidae,Aplocheilus panchax,0.735,NA,0.735,NA
+440,440,Cyprinodontiformes,Aplocheilidae,Austrolebias alexandri,2.62,NA,2.62,NA
+441,441,Cyprinodontiformes,Aplocheilidae,Austrolebias charrua,3.07,NA,3.07,NA
+442,442,Cyprinodontiformes,Aplocheilidae,Austrolebias cheradophilus,3.01,NA,3.01,NA
+443,443,Cyprinodontiformes,Aplocheilidae,Austrolebias cinereus,2.81,NA,2.81,NA
+444,444,Cyprinodontiformes,Aplocheilidae,Austrolebias elongatus,3.01,NA,3.01,NA
+445,445,Cyprinodontiformes,Aplocheilidae,Austrolebias gymnoventris,2.74,NA,2.74,NA
+446,446,Cyprinodontiformes,Aplocheilidae,Austrolebias luteoflammulatus,3.09,NA,3.09,NA
+447,447,Cyprinodontiformes,Aplocheilidae,Austrolebias melanoorus,2.81,NA,2.81,NA
+448,448,Cyprinodontiformes,Aplocheilidae,Austrolebias nigripinnis,2.82,NA,2.82,NA
+449,449,Cyprinodontiformes,Aplocheilidae,Austrolebias prognathus,3.49,NA,3.49,NA
+450,450,Cyprinodontiformes,Aplocheilidae,Austrolebias quirogai,3.16,NA,3.16,NA
+451,451,Cyprinodontiformes,Aplocheilidae,Austrolebias reicherti,3.2,NA,3.2,NA
+452,452,Cyprinodontiformes,Aplocheilidae,Austrolebias vazferreirai,2.87,NA,2.87,NA
+453,453,Cyprinodontiformes,Aplocheilidae,Austrolebias viarius,2.98,NA,2.98,NA
+454,454,Cyprinodontiformes,Aplocheilidae,Austrolebias wolterstorffi,2.78,NA,2.78,NA
+455,455,Cyprinodontiformes,Aplocheilidae,Cynopoecilus melanotaenia,1.36,NA,1.36,NA
+456,456,Cyprinodontiformes,Aplocheilidae,Nothobranchius furzeri,1.56,NA,1.56,NA
+457,457,Cyprinodontiformes,Aplocheilidae,Pachypanchax playfairii,0.73,NA,0.73,NA
+458,458,Cyprinodontiformes,Aplocheilidae,Rivulus urophthalmus,1.5,44,1.5,44
+459,459,Cyprinodontiformes,Cyprinodontidae,Cyprinodon variegatus variegatus,1.6,NA,1.6,NA
+460,460,Cyprinodontiformes,Fundulidae,Fundulus diaphanus diaphanus,1.51,48,1.51,48
+461,461,Cyprinodontiformes,Fundulidae,Fundulus heteroclitus,1.56,NA,1.56,NA
+462,462,Cyprinodontiformes,Fundulidae,Fundulus heteroclitus heteroclitus,1.383333333,NA,1.36,NA
+463,463,Cyprinodontiformes,Fundulidae,Fundulus heteroclitus x F. diaphanus,1.45,48,1.45,48
+464,464,Cyprinodontiformes,Fundulidae,Fundulus heteroclitus x F. diaphanus (3x),2.17,NA,2.17,NA
+465,465,Cyprinodontiformes,Fundulidae,Fundulus majalis,1.615,NA,1.615,NA
+466,466,Cyprinodontiformes,Poeciliidae,Belonesox belizanus,0.94,48,0.94,48
+467,467,Cyprinodontiformes,Poeciliidae,Gambusia affinis,0.845,NA,0.845,NA
+468,468,Cyprinodontiformes,Poeciliidae,Gambusia holbrooki,0.86,48,0.86,48
+469,469,Cyprinodontiformes,Poeciliidae,Heterandria bimaculata,0.95,NA,0.95,NA
+470,470,Cyprinodontiformes,Poeciliidae,Limia nigrofasciata,0.9,NA,0.9,NA
+471,471,Cyprinodontiformes,Poeciliidae,Limia vittata,0.95,46,0.95,46
+472,472,Cyprinodontiformes,Poeciliidae,Poecilia formosa,0.846,NA,0.85,NA
+473,473,Cyprinodontiformes,Poeciliidae,Poecilia latipinna,0.97,NA,0.96,NA
+474,474,Cyprinodontiformes,Poeciliidae,Poecilia latipunctata,0.88,46,0.88,46
+475,475,Cyprinodontiformes,Poeciliidae,Poecilia mexicana,0.9875,NA,0.935,NA
+476,476,Cyprinodontiformes,Poeciliidae,Poecilia reticulata,0.885,NA,0.885,NA
+477,477,Cyprinodontiformes,Poeciliidae,Poecilia sphenops,0.89,NA,0.89,NA
+478,478,Cyprinodontiformes,Poeciliidae,Poeciliopsis 2 monacha-lucida (3x),1.01,NA,1.01,NA
+479,479,Cyprinodontiformes,Poeciliidae,Poeciliopsis 2 viriosa-lucida (3x),1.01,72,1.01,72
+480,480,Cyprinodontiformes,Poeciliidae,Poeciliopsis gracilus,0.82,NA,0.82,NA
+481,481,Cyprinodontiformes,Poeciliidae,Poeciliopsis latidens,0.65,48,0.65,48
+482,482,Cyprinodontiformes,Poeciliidae,Poeciliopsis lucida,0.66,NA,0.66,NA
+483,483,Cyprinodontiformes,Poeciliidae,Poeciliopsis monacha,0.67,NA,0.67,NA
+484,484,Cyprinodontiformes,Poeciliidae,Poeciliopsis monacha-2 lucida (3x),1.01,NA,1.01,NA
+485,485,Cyprinodontiformes,Poeciliidae,Poeciliopsis monacha-latidens (2x),0.65,48,0.65,48
+486,486,Cyprinodontiformes,Poeciliidae,Poeciliopsis monacha-lucida (2x),0.675,NA,0.675,NA
+487,487,Cyprinodontiformes,Poeciliidae,Poeciliopsis monacha-occidentalis (2x),0.68,48,0.68,48
+488,488,Cyprinodontiformes,Poeciliidae,Poeciliopsis occidentalis,0.68,48,0.68,48
+489,489,Cyprinodontiformes,Poeciliidae,Poeciliopsis viriosa,0.71,48,0.71,48
+490,490,Cyprinodontiformes,Poeciliidae,Xiphophorus alverezi,0.76,NA,0.76,NA
+491,491,Cyprinodontiformes,Poeciliidae,Xiphophorus andersi,0.74,NA,0.74,NA
+492,492,Cyprinodontiformes,Poeciliidae,Xiphophorus cortezi,0.77,NA,0.77,NA
+493,493,Cyprinodontiformes,Poeciliidae,Xiphophorus couchianus,0.75,NA,0.75,NA
+494,494,Cyprinodontiformes,Poeciliidae,Xiphophorus hellerii,0.857142857,NA,0.82,NA
+495,495,Cyprinodontiformes,Poeciliidae,Xiphophorus maculatus,0.905,NA,0.935,NA
+496,496,Cyprinodontiformes,Poeciliidae,Xiphophorus meyeri,0.75,NA,0.75,NA
+497,497,Cyprinodontiformes,Poeciliidae,Xiphophorus montezumae,0.76,48,0.76,48
+498,498,Cyprinodontiformes,Poeciliidae,Xiphophorus pygmaeus,0.75,NA,0.75,NA
+499,499,Cyprinodontiformes,Poeciliidae,Xiphophorus variatus,0.81,NA,0.81,NA

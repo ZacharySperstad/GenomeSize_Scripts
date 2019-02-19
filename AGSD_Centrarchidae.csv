@@ -1,0 +1,15 @@
+,Order,Family,Species,CVal_Mean,ChromNumber_Mean,CVal_Median,ChromNumber_Median
+667,Perciformes,Centrarchidae,Ambloplites rupestris,1.15,NA,1.15,NA
+668,Perciformes,Centrarchidae,Lepomis auritus,1.03,48,1.03,48
+669,Perciformes,Centrarchidae,Lepomis cyanellus,1.00,NA,1.00,NA
+670,Perciformes,Centrarchidae,Lepomis gibbosus,1.08,NA,1.08,NA
+671,Perciformes,Centrarchidae,Lepomis gulosus,1.00,NA,1.00,NA
+672,Perciformes,Centrarchidae,Lepomis humilis,1.01,46,1.01,46
+673,Perciformes,Centrarchidae,Lepomis macrochirus,1.03,NA,0.98,NA
+674,Perciformes,Centrarchidae,Lepomis marginatus,1.08,48,1.08,48
+675,Perciformes,Centrarchidae,Lepomis megalotis,1.06,NA,1.06,NA
+676,Perciformes,Centrarchidae,Lepomis microlophus,0.93,NA,0.93,NA
+677,Perciformes,Centrarchidae,Lepomis punctatus,0.96,NA,0.96,NA
+678,Perciformes,Centrarchidae,Micropterus dolomieu,1.01,NA,1.01,NA
+679,Perciformes,Centrarchidae,Micropterus salmoides,0.90,NA,1.00,NA
+680,Perciformes,Centrarchidae,Pomoxis annularis,1.04,NA,1.04,NA
